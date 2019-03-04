@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">大猫商城</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">看板</string>
+    <string name="title_notifications">通知</string>
+    <string name="edit_message">输入框</string>
+    <string name="button">发送</string>
+    <string name="text_view">TextView</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">icartmall</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="edit_message">Text Field</string>
+    <string name="button">Send</string>
+    <string name="text_view">TextView</string>
+</resources>
